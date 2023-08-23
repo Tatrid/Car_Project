@@ -1,15 +1,27 @@
 package code;
-
+import code.Vehicle_Services;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component(value = "VehicleBean")
 public class Vehicle {
-    public static Vehicle_Services vs;
+    private String name = "Honda";
+    private final Vehicle_Services vehicleServices;
     @Autowired
-    public static Vehicle_Services getVs() {
-        return vs;
+    public  Vehicle(Vehicle_Services vehicleServices) {
+        this.vehicleServices = vehicleServices;
+    }
+    public String getName(){
+        return name;
     }
 
-    public static void setVs(Vehicle_Services vs) {
-        Vehicle.vs = vs;
+    public  void setName(String name){
+        this.name = name;
+    }
+    public Vehicle_Services getVehicleServices() {
+        return vehicleServices;
+    }
+    public void printHello(){
+        System.out.println("HI");
     }
 }
