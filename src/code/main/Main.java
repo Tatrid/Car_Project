@@ -14,7 +14,7 @@ public class Main {
         Vehicle vehicle = context.getBean(Vehicle.class);
         vehicle.getVehicleServices().moveVehicle();
         vehicle.getVehicleServices().playMusic();
-
+/*first Spring Project*/
 
     }
 }
