@@ -1,6 +1,6 @@
-package code;
+package code.BussinesLogic;
 
-import code.Tyres;
+import code.interfaces.Tyres;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 

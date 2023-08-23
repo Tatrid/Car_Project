@@ -1,6 +1,6 @@
-package code;
+package code.BussinesLogic;
 
-import code.Speakers;
+import code.interfaces.Speakers;
 import org.springframework.stereotype.Component;
 
 @Component

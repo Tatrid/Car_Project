@@ -1,7 +1,7 @@
-package code;
+package code.services;
 
-import code.Tyres;
-import code.Speakers;
+import code.interfaces.Tyres;
+import code.interfaces.Speakers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

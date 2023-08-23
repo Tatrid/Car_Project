@@ -1,5 +1,5 @@
-package code;
-import code.Speakers;
+package code.BussinesLogic;
+import code.interfaces.Speakers;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 

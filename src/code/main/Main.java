@@ -1,5 +1,8 @@
-package code;
+package code.main;
 
+import code.Beans.Person;
+import code.ProjectConfig.ProjectConfig;
+import code.Beans.Vehicle;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {

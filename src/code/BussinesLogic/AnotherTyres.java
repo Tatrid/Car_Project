@@ -1,5 +1,6 @@
-package code;
+package code.BussinesLogic;
 
+import code.interfaces.Tyres;
 import org.springframework.stereotype.Component;
 
 @Component

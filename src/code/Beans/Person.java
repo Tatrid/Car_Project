@@ -1,5 +1,4 @@
-package code;
-import org.springframework.beans.factory.annotation.Autowired;
+package code.Beans;
 import org.springframework.stereotype.Component;
 
 @Component(value = "PersonBean")

@@ -6,14 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="5608f77b-f7a6-4db2-8b11-1f858a651f17" name="Changes" comment="All Clases Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/ProjectConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Speakers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Tyres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Vehicle_Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Vehicle_Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/AnotherSpeaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/BussinesLogic/AnotherSpeaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/AnotherTyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/BussinesLogic/AnotherTyres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/MichelinTyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/BussinesLogic/MichelinTyres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Beans/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/PionerSpeaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/BussinesLogic/PionerSpeaker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/ProjectConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/ProjectConfig/ProjectConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Speakers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/interfaces/Speakers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Tyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/interfaces/Tyres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/Beans/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/Vehicle_Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/services/Vehicle_Services.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692814775148</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="All Clases Commit">
+      <created>1692831267176</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692831267176</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

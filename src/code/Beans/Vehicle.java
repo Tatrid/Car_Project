@@ -1,5 +1,5 @@
-package code;
-import code.Vehicle_Services;
+package code.Beans;
+import code.services.Vehicle_Services;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
